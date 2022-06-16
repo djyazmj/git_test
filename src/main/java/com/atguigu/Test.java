@@ -4,5 +4,6 @@ public class Test {
     public void test(){
         System.out.println("hello git");
         System.out.println("hello 2");
+        System.out.println("hello hot-fix");
     }
 }
