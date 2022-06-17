@@ -8,5 +8,7 @@ public class Test {
         System.out.println("hello master");
         System.out.println("hello hot");
         System.out.println("github test");
+        System.out.println("github pull");
+        
     }
 }
